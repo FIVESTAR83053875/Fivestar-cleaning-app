@@ -1,0 +1,8 @@
+raw/private/
+raw/inbox/*
+!raw/inbox/.gitkeep
+*.key
+*.pem
+.env
+.env.*
+
